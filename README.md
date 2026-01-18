@@ -1,7 +1,7 @@
 # Calcolatore di Preventivi – WinUI 3 (Portable)
 
 🔗 Pagina Patreon del progetto:  
-https://www.patreon.com/TUO_USERNAME
+[https://www.patreon.com/cw/MCDRAWING]
 
 Applicazione desktop Windows sviluppata in **WinUI 3** per il **calcolo e la gestione di preventivi**, distribuita come **portable EXE self-contained**.
 
